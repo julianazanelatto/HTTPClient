@@ -1,0 +1,18 @@
+[
+  {
+  "args": {}, 
+  "data": "", 
+  "files": {}, 
+  "form": {
+    "comments": "Nenhuma", 
+    "custemail": "algo@gmail.com", 
+    "custname": "Maria", 
+    "custtel": "90908028", 
+    "delivery": "", 
+    "size": "large", 
+    "topping": [
+      "bacon", 
+      "cheese"
+    ]
+  }
+]
